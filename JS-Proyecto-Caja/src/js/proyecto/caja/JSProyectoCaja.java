@@ -6,12 +6,12 @@
 package js.proyecto.caja;
 
 /**
- *
+ *private nose 
  * @author derfu
  */
 public class JSProyectoCaja {
 
-    /** practica
+    /** practicaasdsad
      * @param args the command line arguments
      */
     public static void main(String[] args) {
