@@ -7,7 +7,7 @@ package js.proyecto.caja;
 
 /**
  *private nose  asdsa d
- * @author derfu
+ * @author derfu chuchito galvis
  */
 public class JSProyectoCaja {
 
